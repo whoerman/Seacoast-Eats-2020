@@ -1,8 +1,8 @@
 
 function makeAllButtonCard() {
     fullCurrentRestarantCard = '<div class="card border-secondary text-center"> \
-<img class="card-img-top" src="./assets/images/restaurants/' + restaurantData[i].logo + '" alt="' + restaurantData[i].name + ' restaurant logo"> \
     <div class="card-body"> \
+        <h5 class="card-title">' + restaurantData[i].name + '</h5> \
         <h5 class="card-title">' + restaurantData[i].summary + '</h5> \
         <a href="' + restaurantData[i].pages.website + '" class="btn btn-warning m-1"><i class="fas fa-utensils"></i> ' + restaurantData[i].name + ' website</a> \
         <a href="' + restaurantData[i].pages.facebook + '" class="btn btn-primary m-1"><i class="fab fa-facebook"></i> Facebook</a> \
@@ -12,6 +12,8 @@ function makeAllButtonCard() {
     </div> \
 </div>';
 }
+
+/* <img class="card-img-top" src="./assets/images/restaurants/' + restaurantData[i].logo + '" alt="' + restaurantData[i].name + ' restaurant logo"> \ */
 
 function makeListButtonCard() {
     listCurrentRestarantCard = '<div class="card border-secondary text-center"> \
@@ -42,6 +44,6 @@ function nameAll() {
     }
 };
 
-// listAll();
+listAll();
 
-nameAll();
+// nameAll();
