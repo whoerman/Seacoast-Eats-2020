@@ -18,6 +18,7 @@ function makeListButtonCard() {
     <div class="card-body"> \
         <h5 class="card-title">' + restaurantData[i].name + '</h5> \
         <h5 class="card-title">' + restaurantData[i].summary + '</h5> \
+        <a href="' + restaurantData[i].location.google + '" class="btn btn-info text-white m-1"><i class="fab fa-google"></i> Location (Google)</a> \
     </div> \
 </div>';
 }
