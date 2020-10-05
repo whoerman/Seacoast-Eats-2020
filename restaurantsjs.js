@@ -8,7 +8,6 @@ function makeAllButtonCard() {
         <a href="' + restaurantData[i].pages.facebook + '" class="btn btn-primary m-1"><i class="fab fa-facebook"></i> Facebook</a> \
         <a href="' + restaurantData[i].pages.yelp + '" class="btn btn-danger m-1"><i class="fab fa-yelp"></i> Yelp</a> \
         <a href="' + restaurantData[i].pages.tripadvisor + '" class="btn btn-success m-1"><i class="fab fa-tripadvisor"></i> Tripadvisor</a> \
-        <a href="' + restaurantData[i].dennett.directions + '" class="btn text-white bg-secondary m-1"><i class="fas fa-walking"></i> Walk from 56 Dennett</a> \
         <a href="' + restaurantData[i].location.google + '" class="btn btn-info text-white m-1"><i class="fab fa-google"></i> Location (Google)</a> \
     </div> \
 </div>';

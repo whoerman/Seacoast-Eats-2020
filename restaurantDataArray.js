@@ -13,12 +13,7 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/BarrioNewEngland',
         yelp: 'https://www.yelp.com/biz/barrio-portsmouth',
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d14784834-Reviews-Barrio-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.3',
-        directions: 'https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Barrio,+Vaughan+Street,+Portsmouth,+NH/@43.0797615,-70.7677705,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf098ccd0a59:0x638419366b50e4f6!2m2!1d-70.7629833!2d43.0799994!3e2',
-    },
+    }
 }, {
     name: 'Rooftop at Envio',
     location: {
@@ -33,11 +28,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/rooftopportsmouth',
         yelp: 'https://www.yelp.com/biz/rooftop-at-the-envio-portsmouth-2?osq=rooftop+at+envio',
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d20115690-Reviews-Rooftop_at_The_Envio-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.3',
-        directions: 'https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Rooftop+at+The+Envio,+Vaughan+Street,+Portsmouth,+NH/@43.0797615,-70.7674894,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf9ad89e7f4d:0x5b17ccd8a59d5b4c!2m2!1d-70.762421!2d43.0797459!3e2',
     }
 }, {
     name: 'Green Elephant',
@@ -53,11 +43,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/greenelephantnh',
         yelp: 'https://www.yelp.com/biz/green-elephant-portsmouth',
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d8657507-Reviews-Green_Elephant-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.4',
-        directions: 'https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Green+Elephant+Vegetarian+Bistro+%26+Bar,+Portwalk+Place,+Portsmouth,+NH/@43.0789114,-70.7669103,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0bba1d0bf1:0xcc537bb0eead071d!2m2!1d-70.7613527!2d43.0781121!3e2',
     }
 }, {
     name: 'BRGR Bar',
@@ -73,11 +58,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/BRGRBAR',
         yelp: "https://www.yelp.com/biz/brgr-bar-portsmouth",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d6278438-Reviews-BRGR_Bar-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.4',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/BRGR+Bar,+Portwalk+Place,+Portsmouth,+NH/@43.0789114,-70.76683,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0bc9ecb8db:0x5e70b41df507e3a2!2m2!1d-70.7611022!2d43.078236!3e2",
     }
 }, {
     name: 'Statey Bar & Grill',
@@ -93,12 +73,7 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/thestatestreetsaloon',
         yelp: "https://www.yelp.com/biz/the-statey-bar-and-grill-portsmouth",
         tripadvisor: "https://www.tripadvisor.com/Restaurant_Review-g46209-d14174003-Reviews-Statey_Bar_Grill-Portsmouth_New_Hampshire.html",
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.4',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Statey+Bar+%26+Grill,+238+Deer+St,+Portsmouth,+NH+03801/@43.0786129,-70.7672445,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bfeea6f2dc1b:0x5f26444ca97a19c9!2m2!1d-70.7623329!2d43.0772534!3e2?hl=en&authuser=0",
-    },
+    }
 }, {
     name: 'Dos Amigos',
     location: {
@@ -113,11 +88,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/DosAmigosBurritos',
         yelp: "https://www.yelp.com/biz/dos-amigos-burritos-portsmouth",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d835641-Reviews-Dos_Amigos_Burritos-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.5',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Dos+Amigos+Burritos+-+Portsmouth,+Portwalk+Place,+Portsmouth,+NH/@43.0788076,-70.7666399,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0dc6a60ff7:0x499dbd49926298aa!2m2!1d-70.760814!2d43.0776429!3e2",
     }
 }, {
     name: 'Shalimar India',
@@ -133,11 +103,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/Shalimar-India-in-Portsmouth-NH-03801-211030320491',
         yelp: "https://www.yelp.com/biz/shalimar-india-portsmouth",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d412842-Reviews-Shalimar_India_Restaurant-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.5',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Shalimar+India,+Hanover+Street,+Portsmouth,+NH/@43.0785986,-70.768487,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0ba2ca2493:0x591f384e80606f50!2m2!1d-70.760028!2d43.077225!3e2",
     }
 }, {
     name: 'Earth Eagle',
@@ -153,11 +118,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/eartheaglebrewings',
         yelp: "https://www.yelp.com/biz/earth-eagle-brewings-portsmouth",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d6596756-Reviews-Earth_Eagle_Brewings-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.5',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Earth+Eagle+Brewings,+High+Street,+Portsmouth,+NH/@43.0789419,-70.7683285,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0bfa9db5f3:0x83625780fde7c6d1!2m2!1d-70.759711!2d43.0792766!3e2",
     }
 }, {
     name: 'Row 34',
@@ -173,11 +133,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/Row34NH',
         yelp: "https://www.yelp.com/biz/row-34-portsmouth",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d8148046-Reviews-Row_34-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.5',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Row+34,+Portwalk+Place,+Portsmouth,+NH/@43.0786918,-70.7665123,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0bba37e057:0xdb46e8b9bda7532b!2m2!1d-70.7605335!2d43.0773501!3e2",
     }
 }, {
     name: 'Bridge Street Bistrot',
@@ -193,11 +148,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/Bridge-Street-Bistrot-Wine-Bar-116311568396226',
         yelp: "https://www.yelp.com/biz/bridge-street-bistrot-and-wine-bar-portsmouth",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d4452253-Reviews-Bridge_Street_Bistrot_Wine_Bar-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.5',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Bridge+Street+Bistrot+%26+Wine+Bar,+Bridge+Street,+Portsmouth,+NH/@43.0783828,-70.7627218,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0afcb68d55:0xdca894136fe70bd0!2m2!1d-70.7618608!2d43.0763292!3e2?hl=en&authuser=0",
     }
 }, {
     name: 'La Carreta',
@@ -213,11 +163,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/La-Carreta-Portsmouth-1361120723928411',
         yelp: "https://www.yelp.com/biz/la-carreta-restaurante-mexicano-portsmouth",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d17471724-Reviews-La_Carreta-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.5',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/La+Carreta+Mexican+Restaurant,+Hanover+Street,+Portsmouth,+NH/@43.0781677,-70.768385,16z/data=!3m2!4b1!5s0x89e2bf9b9ce6beaf:0x290ab22deaff8c29!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf43f4476eaf:0x85aabbb760c608a!2m2!1d-70.7603683!2d43.0771598!3e2?hl=en&authuser=0",
     }
 }, {
     name: "Dwyer's Pub",
@@ -233,12 +178,7 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/Dwyers-Pub-108032330637155',
         yelp: "https://www.yelp.com/biz/dwyers-pub-portsmouth",
         tripadvisor: "",
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.5',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Dwyer's+Pub,+96+Bridge+St,+Portsmouth,+NH+03801/@43.0783497,-70.7672445,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bfe08cc8fdc3:0x152d96556f9ee887!2m2!1d-70.7622081!2d43.0767271!3e2?hl=en&authuser=0",
-    },
+    }
 }, {
     name: "Legend's Billiards",
     location: {
@@ -253,12 +193,7 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/Legends-Billiards-Tavern-311850082172989',
         yelp: "https://www.yelp.com/biz/legends-billiards-and-tavern-portsmouth",
         tripadvisor: "https://www.tripadvisor.com/Restaurant_Review-g46209-d4572009-Reviews-Legends_Billiards_and_Tavern-Portsmouth_New_Hampshire.html",
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.5',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Legends+Billiards+%26+Tavern,+80+Hanover+St,+Portsmouth,+NH+03801/@43.0786572,-70.768444,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0ba2ca2493:0x225acb8698c55f97!2m2!1d-70.759942!2d43.077281!3e2?hl=en&authuser=0",
-    },
+    }
 }, {
     name: 'The Goods',
     location: {
@@ -273,12 +208,7 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/goodsmarketandcafe',
         yelp: "https://www.yelp.com/biz/the-goods-market-and-cafe-portsmouth",
         tripadvisor: "https://www.tripadvisor.com/Restaurant_Review-g46209-d11896536-Reviews-The_Goods-Portsmouth_New_Hampshire.html",
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.5',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/The+Goods,+29+Vaughan+Mall,+Portsmouth,+NH+03801/@43.0781677,-70.7683341,16z/data=!3m2!4b1!5s0x89e2bf0b9faa7ad9:0xef7a489526963475!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0b9f6225b5:0x6bb9626e0970633d!2m2!1d-70.7597222!2d43.0766667!3e2?hl=en&authuser=0",
-    },
+    }
 }, {
     name: 'The Green Room',
     location: {
@@ -293,12 +223,7 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/Greenroomportsmouth',
         yelp: "https://www.yelp.com/biz/the-green-room-portsmouth",
         tripadvisor: "https://www.tripadvisor.com/Restaurant_Review-g46209-d19120171-Reviews-Green_Room-Portsmouth_New_Hampshire.html",
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.5',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/The+Green+Room,+41+Vaughan+Mall,+Portsmouth,+NH+03801/@43.0783587,-70.7683386,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bfb05ff15487:0x4676b6c233b99f12!2m2!1d-70.7597312!2d43.0768005!3e2?hl=en&authuser=0",
-    },
+    }
 }, {
     name: 'Mr, Wish',
     location: {
@@ -313,12 +238,7 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/MrWishPortsmouth',
         yelp: "https://www.yelp.com/biz/mr-wish-portsmouth",
         tripadvisor: "",
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.5',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Mr.+Wish,+37+Vaughan+Mall,+Portsmouth,+NH+03801/@43.0783487,-70.7682838,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0edb8c3b7f:0xf329c921ec42567b!2m2!1d-70.7596217!2d43.0768166!3e2?hl=en&authuser=0",
-    },
+    }
 }, {
     name: "Jumpin' Jay's",
     location: {
@@ -333,11 +253,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/jumpinjays',
         yelp: "https://www.yelp.com/biz/jumpin-jays-fish-cafe-portsmouth-2",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d412840-Reviews-Jumpin_Jay_s_Fish_Cafe-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.6',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Jumpin'+Jay's+Fish+Cafe,+Congress+Street,+Portsmouth,+NH/@43.077798,-70.7686655,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0b3d9e98cd:0x6155a48c29e1d9c1!2m2!1d-70.7604574!2d43.0756238!3e2",
     }
 }, {
     name: 'The Friendly Toast',
@@ -353,11 +268,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/TheFriendlyToastPortsmouth',
         yelp: "https://www.yelp.com/biz/the-friendly-toast-portsmouth",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d509599-Reviews-The_Friendly_Toast-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.6',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/The+Friendly+Toast,+Congress+Street,+Portsmouth,+NH/@43.0778605,-70.7682528,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0b73022143:0x719da32f368a9b8e!2m2!1d-70.759811!2d43.076242!3e2",
     }
 }, {
     name: 'FlatBread',
@@ -373,11 +283,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/FlatbreadPortsmouth',
         yelp: "https://www.yelp.com/biz/flatbread-portsmouth-2",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d616656-Reviews-Flatbread_Company-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.6',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Flatbread+Company,+Congress+Street,+Portsmouth,+NH/@43.077824,-70.768526,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0b11450011:0x308bbb94cb0f8004!2m2!1d-70.7601061!2d43.0757574!3e2",
     }
 }, {
     name: 'Cafe Mediterraneo',
@@ -393,11 +298,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/Cafe-Mediterraneo-115135168575391',
         yelp: "https://www.yelp.com/biz/cafe-mediterraneo-portsmouth",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d412832-Reviews-Cafe_Mediterraneo-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.6',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Cafe+Mediterraneo,+Congress+Street,+Portsmouth,+NH/@43.0778605,-70.7682528,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0b72c68977:0xbbb0e6c5b7d71e42!2m2!1d-70.7600324!2d43.076341!3e2",
     }
 }, {
     name: 'Thirsty Moose',
@@ -413,11 +313,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/ThirstyMooseTapHouse',
         yelp: "https://www.yelp.com/biz/thirsty-moose-taphouse-portsmouth-2",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d3381540-Reviews-Thirsty_Moose_Taphouse_Portsmouth-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.6',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Thirsty+Moose+Tap+House+-+Portsmouth,+Congress+Street,+Portsmouth,+NH/@43.0778605,-70.7677341,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0c77968efd:0xfc782c8906beb72!2m2!1d-70.7585687!2d43.0767951!3e2",
     }
 }, {
     name: 'The Franklin',
@@ -433,11 +328,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/thefranklinnh',
         yelp: "https://www.yelp.com/biz/the-franklin-portsmouth",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d8537521-Reviews-The_Franklin-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.6',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/The+Franklin,+Fleet+Street,+Portsmouth,+NH/@43.0778605,-70.7679637,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0b9cb937ad:0x3184ff8b758db85d!2m2!1d-70.7593051!2d43.0767542!3e2",
     }
 }, {
     name: 'The Goat',
@@ -453,11 +343,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/goatbarportsmouth',
         yelp: "https://www.yelp.com/biz/the-goat-portsmouth-2",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d13703021-Reviews-The_Goat-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.6',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/The+Goat,+Portsmouth,+Congress+Street,+Portsmouth,+NH/@43.077824,-70.7682528,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0b11499b8d:0xb278d170e0345ea4!2m2!1d-70.760349!2d43.0758086!3e2",
     }
 }, {
     name: 'The Soupery',
@@ -473,11 +358,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/souperynh',
         yelp: "https://www.yelp.com/biz/the-soupery-portsmouth",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d6524175-Reviews-The_Soupery-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.6',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/The+Soupery+%7C+Juicery+Pops,+51+Hanover+St,+Portsmouth,+NH+03801/@43.0786691,-70.7677083,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0bf8187d9b:0xbacd2b3fcaa24f13!2m2!1d-70.7585453!2d43.0782505!3e2?hl=en&authuser=0",
     }
 }, {
     name: 'The District',
@@ -493,11 +373,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/TheDistrictNH',
         yelp: "https://www.yelp.com/biz/the-district-portsmouth",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d2358983-Reviews-The_District-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.6',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/The+District,+Congress+Street,+Portsmouth,+NH/@43.0778605,-70.7682528,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0b73892081:0xd25f58049edb18e!2m2!1d-70.7597837!2d43.076406!3e2?hl=en&authuser=0",
     }
 }, {
     name: 'The Wilder',
@@ -513,11 +388,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/wilderportsmouth',
         yelp: "https://www.yelp.com/biz/the-wilder-portsmouth-2",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d13342659-Reviews-The_Wilder-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.6',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/The+Wilder,+Fleet+Street,+Portsmouth,+NH/@43.0786028,-70.7682553,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0b99c6603d:0x4810401c775b7d31!2m2!1d-70.7596583!2d43.0771722!3e2?hl=en&authuser=0",
     }
 }, {
     name: "Lazy Jack's",
@@ -533,12 +403,7 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/lazyjackswateringhole',
         yelp: "https://www.yelp.com/biz/lazy-jacks-portsmouth",
         tripadvisor: "https://www.tripadvisor.com/Restaurant_Review-g46209-d8439450-Reviews-Lazy_Jacks-Portsmouth_New_Hampshire.html",
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.6',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Lazy+Jack's,+54+Ceres+St,+Portsmouth,+NH+03801/@43.0788887,-70.7672918,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0eafab1a3f:0xc8bc7e790c650043!2m2!1d-70.7579116!2d43.0790909!3e2?hl=en&authuser=0",
-    },
+    }
 }, {
     name: 'La Maison Navarre',
     location: {
@@ -553,12 +418,7 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/La-Maison-Navarre-981397091882666',
         yelp: "https://www.yelp.com/biz/la-maison-navarre-portsmouth",
         tripadvisor: "https://www.tripadvisor.com/Restaurant_Review-g46209-d8527226-Reviews-La_Maison_Navarre-Portsmouth_New_Hampshire.html",
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.6',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/La+Maison+Navarre+-+Pastry,+Bistro,+Wine+Bar,+121+Congress+Street,+Portsmouth,+NH+03801/@43.0778605,-70.7682528,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0b0d4864c1:0x161bc7565dc26839!2m2!1d-70.76015!2d43.0763444!3e2?hl=en&authuser=0",
-    },
+    }
 }, {
     name: "Bennett's Sandwich Shop",
     location: {
@@ -573,12 +433,7 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/Bennettssandwichshop',
         yelp: "https://www.yelp.com/biz/bennetts-sandwich-shop-portsmouth",
         tripadvisor: "https://www.tripadvisor.com/Restaurant_Review-g46209-d8435306-Reviews-Bennett_s_Sandwich_Shop-Portsmouth_New_Hampshire.html",
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.6',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Bennett's+Sandwich+Shop,+41+Congress+Street,+Portsmouth,+NH+03801/@43.0778605,-70.7678012,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0b8142140f:0x6562e6c34d4e1e03!2m2!1d-70.758755!2d43.0767!3e2?hl=en&authuser=0",
-    },
+    }
 }, {
     name: 'The Juicery',
     location: {
@@ -593,12 +448,7 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/portsmouthJuicery',
         yelp: "https://www.yelp.com/biz/the-juicery-portsmouth?osq=The+Juicery",
         tripadvisor: "https://www.tripadvisor.com/Restaurant_Review-g46209-d829642-Reviews-Juicery-Portsmouth_New_Hampshire.html",
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.6',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/The+Juicery,+55+Hanover+St,+Portsmouth,+NH+03801/@43.0786386,-70.7677782,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0bf7a0ebdb:0x6b6475d003bb5cf6!2m2!1d-70.7586688!2d43.0781749!3e2?hl=en&authuser=0",
-    },
+    }
 }, {
     name: 'Cava',
     location: {
@@ -613,11 +463,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/CavaTapasAndWineBar',
         yelp: "https://www.yelp.com/biz/cava-portsmouth",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d1509002-Reviews-Cava-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.7',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Cava,+Commercial+Alley,+Portsmouth,+NH/@43.0778605,-70.7669477,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0c13f0bedf:0xa47d27fcadaca02b!2m2!1d-70.7569528!2d43.0776583!3e2",
     }
 }, {
     name: 'Durbar Square',
@@ -633,11 +478,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/durbarsquarerestaurant1',
         yelp: 'https://www.yelp.com/biz/durbar-square-restaurant-portsmouth?osq=durbar+squaare',
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d2413812-Reviews-Durbar_Square_Restaurant-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.7',
-        directions: 'https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Durbar+Square+Restaurant,+Market+Street,+Portsmouth,+NH/@43.0778605,-70.7672364,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0c6da6ed89:0x836ad8e345857cf3!2m2!1d-70.757577!2d43.0773378!3e2',
     }
 }, {
     name: 'Black Trumpet',
@@ -653,11 +493,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/blacktrumpet',
         yelp: "https://www.yelp.com/biz/black-trumpet-portsmouth",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d672234-Reviews-Black_Trumpet_Bistro-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.7',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Black+Trumpet,+Ceres+Street,+Portsmouth,+NH/@43.0786133,-70.7670305,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0ea623ab2f:0x3642cef4f728b3aa!2m2!1d-70.757678!2d43.078674!3e2",
     }
 }, {
     name: 'Surf',
@@ -673,11 +508,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/SurfPortsmouthNH',
         yelp: "https://www.yelp.com/biz/surf-restaurant-portsmouth",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d2199055-Reviews-Surf-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.7',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Surf+Portsmouth,+Bow+Street,+Portsmouth,+NH/@43.0788887,-70.7665173,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0e85e4eee7:0x6e4b5e2552e05131!2m2!1d-70.7561105!2d43.078935!3e2",
     }
 }, {
     name: 'River House',
@@ -693,11 +523,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/RiverHousePortsmouth',
         yelp: "https://www.yelp.com/biz/the-river-house-portsmouth-5",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d1556896-Reviews-The_River_House_Restaurant-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walkable',
-        distance: '0.7',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/River+House,+Bow+Street,+Portsmouth,+NH/@43.0788887,-70.7667675,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0e9e92d645:0x9c7122ac48d9ba9a!2m2!1d-70.7566757!2d43.0788002!3e2",
     }
 }, {
     name: 'Moxy',
@@ -713,11 +538,6 @@ let restaurantData = [{
         facebook: 'https://www.facebook.com/moxyrestaurant',
         yelp: "https://www.yelp.com/biz/moxy-portsmouth",
         tripadvisor: 'https://www.tripadvisor.com/Restaurant_Review-g46209-d3347983-Reviews-Moxy-Portsmouth_New_Hampshire.html',
-    },
-    dennett: {
-        mode: 'Walakble',
-        distance: '0.7',
-        directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Moxy,+Penhallow+Street,+Portsmouth,+NH/@43.0778605,-70.7666615,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf0c3d6c9e29:0x9dc48c605f8921c7!2m2!1d-70.7568305!2d43.0777893!3e2",
     }
 }, {
     name: "Rudi's Portsmouth",
@@ -1779,21 +1599,23 @@ let restaurantData = [{
         distance: '1.3',
         directions: "https://www.google.com/maps/dir/56+Dennett+St,+Portsmouth,+NH+03801,+USA/Geno's+Chowder+%26+Sandwich+Shop,+Mechanic+Street,+Portsmouth,+NH/@43.0770695,-70.7676275,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e2bfa123522ebf:0x9d1eb0015bd0fbb0!2m2!1d-70.7681287!2d43.0795147!1m5!1m1!1s0x89e2bf12e0604ad5:0xf09d494047955fac!2m2!1d-70.7495329!2d43.0742353!3e2",
     }
-}, {
-    name: '',
-    location: "",
-    logo: '',
-    summary: "",
-    pages: {
-        website: '',
-        facebook: '',
-        yelp: "",
-        tripadvisor: "",
-    },
-    dennett: {
-        mode: '',
-        distance: '',
-        directions: "",
-    },
-}, ];
+},  
+];
 
+// {
+//     name: '',
+//     location: "",
+//     logo: '',
+//     summary: "",
+//     pages: {
+//         website: '',
+//         facebook: '',
+//         yelp: "",
+//         tripadvisor: "",
+//     },
+//     dennett: {
+//         mode: '',
+//         distance: '',
+//         directions: "",
+//     },
+// },
