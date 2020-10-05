@@ -13,6 +13,15 @@ function makeAllButtonCard() {
 </div>';
 }
 
+function makeListButtonCard() {
+    listCurrentRestarantCard = '<div class="card border-secondary text-center"> \
+    <div class="card-body"> \
+        <h5 class="card-title">' + restaurantData[i].name + '</h5> \
+        <h5 class="card-title">' + restaurantData[i].summary + '</h5> \
+    </div> \
+</div>';
+}
+
 
 //restaurant card structure
 function listAll() {
@@ -23,4 +32,15 @@ function listAll() {
     }
 };
 
-listAll();
+//restaurant list card structure
+function nameAll() {
+    for (i = 0; i < restaurantData.length; i++) {
+            makeListButtonCard();
+            document.getElementById("secondrestaurantsdiv").innerHTML +=
+                listCurrentRestarantCard;
+    }
+};
+
+// listAll();
+
+nameAll();
